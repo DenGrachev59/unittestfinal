@@ -17,7 +17,7 @@ class TestArrs(unittest.TestCase):
         self.assertEqual(my_slice([1, 2, 3], -7), [1, 2, 3])
         self.assertEqual(my_slice([1, 2, 3, 4, 5], -3), [3, 4, 5])
 
-
+#Функции покрыты темтами полностью
 
 
 
